@@ -1,0 +1,5 @@
+package jdbcsample.tables;
+
+public class Students {
+
+}
